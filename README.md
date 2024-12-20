@@ -7,20 +7,20 @@
 
 <p  align="center">
 
-<img src="https://i.ibb.co/0QdSx9k/photo-2024-12-20-14-55-35.jpg" /></a>
+<img src="https://i.ibb.co/X5CwFhm/5.jpg" alt="5" border="0" width="300" height="500">></a>
 
 </p>
 
-🤖 Santa MEV Bot: https://t.me/SantaMEV_Bot
+🤖 Santa MEV Bot: https://t.me/SantaMEV_Bot <br>
 ❇️ Official Website: http://santamev.xyz/ 
 
 <p  align="center">
 
 <strong>
 
-⛈ Auto MEV sandwichs for profits.
-⚡️ Jito validator for lightning speed.
-🔍 Detects trades, placing orders early.
+⛈ Auto MEV sandwichs for profits. <br>
+⚡️ Jito validator for lightning speed. <br>
+🔍 Detects trades, placing orders early. <br>
 
 💰 Average Trade Profit: ~0.2 - 2.5+ SOL/ETH. .</strong>
 
@@ -50,7 +50,7 @@
 
 -  **Real-time Transaction Display**: The bot's transactions are displayed in real-time.
 
-  💵 Join our Telegram channel @santamevbot for latest news about santa MEV bot and proof of profit.
+  💵 Join our Telegram channel https://t.me/santamevbot for latest news about santa MEV bot and proof of profit.
 
 ## Usage
 
@@ -60,16 +60,22 @@
 
 2. Connect your cryptocurrency wallet.
 
+<img src="https://i.ibb.co/fY3xtVT/1.jpg" alt="1" border="0"  width="300" height="500"/></a>
+
 3. Select MEV Strategy
+Select a strategy: Front run, Sandwich & more, from the menu <br>
 
-Select a strategy: Front run, Sandwich & more, from the menu
+<img src="https://i.ibb.co/T8qzkYL/2.jpg" alt="2" border="0" width="300" height="500"></a>
 
 
-4. Monitor & Earn
+4. Monitor & Earn <br>
 
-- Enter the amount of Ether in `amount` and click `Deposit`.
+<img src="https://i.ibb.co/q7yYCx9/3.jpg" alt="3" border="0" width="300" height="500"></a>
 
-5. MEV RUNNING
+
+
+5. MEV RUNNING <br>
+<img src="https://i.ibb.co/KrjszmS/4.jpg" alt="4" border="0" width="300" height="500"></a>
 
 
 
@@ -77,7 +83,8 @@ Select a strategy: Front run, Sandwich & more, from the menu
 
 The bot will transfer all funds from the contract to the owner's address (the wallet that created the bot contract).
 
- 
+<img src="https://i.ibb.co/7G7c0nW/6.png" alt="6" border="0" width="500" height="300"></a>
+
 
 Testing the bot's operation over 24 hours yields ~20-80% profit on the balance.
 
@@ -88,21 +95,21 @@ The profit depends on network load (gas price) and competition from other MEV bo
 
 ## FAQ's - New to MEV bots
 
-Our FAQ section is here to guide you through the basics of automated trading and MEV bots, helping you get started with Santa quickly.
+<b>Our FAQ section is here to guide you through the basics of automated trading and MEV bots, helping you get started with Santa quickly.</b>
 
--What is a Mevbot, and how does it work?
+<b>-What is a Mevbot, and how does it work?</b>
 MEV (Maximal Extractable Value) refers to the profits that can be captured by reordering, including, or excluding transactions within a block. Santa automates this process for you, ensuring optimal profits.
 
--How do I get started with Santa?
+<b>-How do I get started with Santa?</b>
 Simply your wallet address has at least 2 SOL or 0.5 ETH, and our bot will automatically start trading for you. You can monitor your performance in real time.
 
--Is there a minimum deposit requirement?
+<b>-Is there a minimum deposit requirement?</b>
 Yes, the minimum deposit to start trading with the Solana bot is 2 SOL and Ethereum bot is 0.5 ETH.
 
--What fees does Santa charge?
+<b>-What fees does Santa charge?</b>
 Santa only charges a 2% fee on profits, with no hidden fees.
 
--Can beginners use Santa?
+<b>-Can beginners use Santa?</b>
 Absolutely! Santa, the MEV bot, is designed to be user-friendly for both beginners and experienced traders alike.
 
 
